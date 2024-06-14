@@ -1,0 +1,1 @@
+cn/ksmcbrigade/pm/mixin/FriendlyByteBufMixin readBytes ([B)Lio/netty/buffer/ByteBuf; readBytes

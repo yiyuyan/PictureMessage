@@ -1,0 +1,13 @@
+{
+  "gui.pm.title": "Received an image message request, whether to accept the message? (Valid for 2 minutes,source: ",
+  "gui.pm.yes": "[Yes]",
+  "gui.pm.no": "[No]",
+  "command.pm.ret": "Player return.",
+  "command.pm.ret_server": "Sent.",
+  "command.pm.send": "Sending to the player.",
+  "command.pm.timeout": "Timeout.",
+  "file.pm.ask": "Received! ",
+  "file.pm.open": "[Open]",
+  "file.pm.del": "[Delete]",
+  "screen.pm.title": "Received! Do you want to open the file by in-build images viewer?"
+}

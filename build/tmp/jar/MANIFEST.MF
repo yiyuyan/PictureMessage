@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: pm
+Specification-Vendor: KSmc_brigade
+Specification-Version: 1
+Implementation-Title: PictureMessage
+Implementation-Version: cn.ksmcbrigade
+Implementation-Vendor: KSmc_brigade
+Implementation-Timestamp: 2024-06-14T20:55:11+0800
+MixinConfigs: pm.mixins.json
+

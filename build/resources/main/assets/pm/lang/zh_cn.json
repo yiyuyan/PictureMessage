@@ -1,0 +1,13 @@
+{
+  "gui.pm.title": "收到了一条图像消息，是否接收此消息? (有效期：2 分钟，消息来源：",
+  "gui.pm.yes": "【接收】",
+  "gui.pm.no": "【取消】",
+  "command.pm.ret": "玩家取消了本次图片接收。",
+  "command.pm.ret_server": "发送完毕。",
+  "command.pm.send": "正在发送到该玩家。",
+  "command.pm.timeout": "时间超时。",
+  "file.pm.ask": "接收完毕！ ",
+  "file.pm.open": "【打开】",
+  "file.pm.del": "【删除】",
+  "screen.pm.title": "接收完毕！ 是否需要通过内置的图片查看器来打开接收到的图片？"
+}
